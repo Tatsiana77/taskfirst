@@ -2,6 +2,7 @@
  *Разработать приложение согласно требованиям,  приведенным ниже. В приложении должна быть реализована 
   функциональность , определенная заданием. <br/>
   Develop the application according to the requirements given below. The application must implement the functionality defined by the task. <br/>*
+  
 ## Requirements
 
 - Разработать entity-класс, например: " класс Число".<br/>
@@ -17,7 +18,7 @@
 ➢ Develop an entity class, for example: "class Number".<br/>
 ➢ An entity class should not be filled with methods that perform functional actions (business logic methods such as calculation, search, etc.)<br/>
 ➢ All application classes should be structured by packages.<br/>
-➢ The design of the code must comply with the Java Code Convention.<br/>
+➢ The design of the code must comply with the **Java Code Convention**.<br/>
 ➢ Use **Log4J2 or SLF4J** to write logs.<br/>
 ➢ Develop tests on **TestNG or JUnit**. <br/>
 ➢ Keep the task solution on **Github**.<br/>
