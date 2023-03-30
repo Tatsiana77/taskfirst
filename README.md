@@ -1,8 +1,8 @@
 #  First Task Array
  *Разработать приложение согласно требованиям,  приведенным ниже. В приложении должна быть реализована 
-  функциональность , определенная заданием. <br/>
+  функциональность , определенная заданием.* <br/>
   ### Eng.vers.<br/>
-  Develop the application according to the requirements given below. The application must implement the functionality defined by the task.* <br/>
+  *Develop the application according to the requirements given below. The application must implement the functionality defined by the task.* <br/>
   
 ## Requirements
 
