@@ -1,6 +1,7 @@
 #  First Task Array
  *Разработать приложение согласно требованиям,  приведенным ниже. В приложении должна быть реализована 
   функциональность , определенная заданием. <br/>
+  ### Eng.vers.<br/>
   Develop the application according to the requirements given below. The application must implement the functionality defined by the task. <br/>*
   
 ## Requirements
@@ -15,6 +16,7 @@
 - Методы класса Objects использовать запрещено. <br/>
 - Изучить  appendix 1 . <br/>
 
+### *Eng.vers.*<br/>
 ➢ Develop an entity class, for example: "class Number".<br/>
 ➢ An entity class should not be filled with methods that perform functional actions (business logic methods such as calculation, search, etc.)<br/>
 ➢ All application classes should be structured by packages.<br/>
@@ -25,7 +27,7 @@
 ➢ Methods of the **Objects** class are not allowed.<br/>
 ➢ Learn *appendix 1*. <br/>
 
-### Task 0
+### Task 
 
 - Создать класс Число.<br/>
 - Прочитать числа с текстового файла.<br/>
@@ -33,7 +35,7 @@
 - Создать фабрику по созданию объектов класса Число. <br/> 
 - Разработать service-классы  реализующие функциональности: •, +, -, *, /.<br/>
 
-
+### *Eng.vers.* <br/>
 ➢ Create class Number.<br/>
 ➢ Read numbers from a text file.<br/>
 ➢ Perform validation and conversion.<br/>
