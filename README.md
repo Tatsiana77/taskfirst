@@ -16,7 +16,7 @@
 - Методы класса Objects использовать запрещено. <br/>
 - Изучить  appendix 1 . <br/>
 
-### *Eng.vers.*<br/>
+### *Eng.vers.* <br/>
 ➢ Develop an entity class, for example: "class Number".<br/>
 ➢ An entity class should not be filled with methods that perform functional actions (business logic methods such as calculation, search, etc.)<br/>
 ➢ All application classes should be structured by packages.<br/>
